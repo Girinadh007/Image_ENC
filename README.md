@@ -12,6 +12,7 @@ This is a lightweight, real-time GUI-based image encryption tool built with Pyth
 - Built with Python 3.13
 
 ## 📸 Demo
+![image](https://github.com/user-attachments/assets/0eecd34e-9ae0-4483-8b9f-178904ec2c6c)
 
 
 
